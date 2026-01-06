@@ -10,3 +10,4 @@ configs/*.yaml
 out/
 tmp/
 logs/
+.DS_Store
